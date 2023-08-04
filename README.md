@@ -1,4 +1,4 @@
-### Hello! My name is Pawel Pioro and I am a Software Developer.
+### Hello! My name is Pawel Pioro and I am a Programmer.
 <br>
 
 Take a look at my website!
