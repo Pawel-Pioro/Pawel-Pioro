@@ -2,6 +2,9 @@
 <br>
 
 ```json
+
+Method: GET, URL: "/README", Status: 200 (OK)
+
 {
  "Message": "Welcome to my profile!",
 
