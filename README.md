@@ -17,6 +17,7 @@ Method: GET, URL: "/README", Status: 200 (OK)
   "Top Repos": {
     "Social-Media-App": "https://github.com/Pawel-Pioro/Social-Media-App",
     "AuctionSite-Django": "https://github.com/Pawel-Pioro/AuctionSite-Django",
+    "ShoppingCartReact": "https://github.com/Pawel-Pioro/ShoppingCartReact",
     "Email-Django": "https://github.com/Pawel-Pioro/Email-Django",
     "List-Picker-JS": "https://github.com/Pawel-Pioro/List-Picker-JS",
     "youtubeSearch": "https://github.com/Pawel-Pioro/youtubeSearch"
